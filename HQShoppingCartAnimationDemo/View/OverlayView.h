@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  OverlayView.h
 //  HQShoppingCartAnimationDemo
 //
 //  Created by Mr_Han on 2018/11/6.
@@ -10,8 +10,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@class ShoppingCartView;
 
+@interface OverlayView : UIView
+
+@property (nonatomic,strong) ShoppingCartView *ShoppingCartView;
 
 @end
 
