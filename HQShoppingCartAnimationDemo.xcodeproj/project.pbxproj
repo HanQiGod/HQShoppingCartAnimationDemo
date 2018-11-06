@@ -38,7 +38,7 @@
 		7ADCEAD421912CAC0059BC52 /* ShoppingCartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADCEACB21912CAC0059BC52 /* ShoppingCartView.m */; };
 		7ADCEAD521912CAC0059BC52 /* BadgeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADCEACC21912CAC0059BC52 /* BadgeView.m */; };
 		7ADCEAD621912CAC0059BC52 /* ZFReOrderTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ADCEAD121912CAC0059BC52 /* ZFReOrderTableView.m */; };
-		7ADCEAD8219131720059BC52 /* 加入购物车.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7ADCEAD7219131710059BC52 /* 加入购物车.gif */; };
+		7ADCEADA219131D80059BC52 /* 加入购物车.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7ADCEAD9219131D80059BC52 /* 加入购物车.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,7 +104,7 @@
 		7ADCEACF21912CAC0059BC52 /* ShoppingCartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShoppingCartView.h; sourceTree = "<group>"; };
 		7ADCEAD121912CAC0059BC52 /* ZFReOrderTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZFReOrderTableView.m; sourceTree = "<group>"; };
 		7ADCEAD221912CAC0059BC52 /* ZFReOrderTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZFReOrderTableView.h; sourceTree = "<group>"; };
-		7ADCEAD7219131710059BC52 /* 加入购物车.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "加入购物车.gif"; sourceTree = "<group>"; };
+		7ADCEAD9219131D80059BC52 /* 加入购物车.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "加入购物车.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,7 +166,7 @@
 				7ADCEAC221912C600059BC52 /* ShoppingCartCell.h */,
 				7ADCEAC321912C600059BC52 /* ShoppingCartCell.m */,
 				7ADCEAC421912C610059BC52 /* ShoppingCartCell.xib */,
-				7ADCEAD7219131710059BC52 /* 加入购物车.gif */,
+				7ADCEAD9219131D80059BC52 /* 加入购物车.gif */,
 				7ADCEAC921912CAC0059BC52 /* View */,
 				7ADCEAD021912CAC0059BC52 /* ZFReOrderTableView */,
 				7ADCEA7421912BE20059BC52 /* Main.storyboard */,
@@ -347,7 +347,7 @@
 				7ADCEABD21912C150059BC52 /* 1.png in Resources */,
 				7ADCEAB721912C150059BC52 /* 4.png in Resources */,
 				7ADCEAB921912C150059BC52 /* 7.png in Resources */,
-				7ADCEAD8219131720059BC52 /* 加入购物车.gif in Resources */,
+				7ADCEADA219131D80059BC52 /* 加入购物车.gif in Resources */,
 				7ADCEAB621912C150059BC52 /* Minus.png in Resources */,
 				7ADCEA7B21912BE40059BC52 /* LaunchScreen.storyboard in Resources */,
 				7ADCEAB421912C150059BC52 /* 9.png in Resources */,
